@@ -1,12 +1,10 @@
-## Hi there 👋
+<h1 align="center">Hello Everone👋, I'm Achmad Fauzi Aranda</h1>
 
 
-<p align="left">
-<a href="https://github.com/penuliscode">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=fauziarnda&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fauziarnda&layout=compact&theme=algolia"/>
-</a>
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fauziarnda&show_icons=true&locale=en&layout=compact" alt="rezabaguss" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fauziarnda&show_icons=true&locale=en" alt="rezabaguss" /></p>
+
 <!--
 **fauziarnda/fauziarnda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
