@@ -1,4 +1,4 @@
-<h1 align="center">Hello Everone👋, I'm Achmad Fauzi Aranda</h1>
+<h1 align="left">Hello Everyone👋, I'm Achmad Fauzi Aranda</h1>
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fauziarnda&show_icons=true&locale=en&layout=compact" alt="rezabaguss" /></p>
