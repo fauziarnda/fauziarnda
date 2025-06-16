@@ -1,7 +1,7 @@
 <h1 align="left">Hello Everyone 👋, I'm Achmad Fauzi Aranda</h1>
 
 - 🎓 Informatics Student at Brawijaya University  
-- 💻 Interested in Front-End Development, UI/UX Design, and Real-Time Web Technologies  n  
+- 💻 Interested in Web Development, UI/UX Design, and Graphic Design
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/fauziarnda/) | [Instagram](https://instagram.com/fauziarnda)  
 
 ---
@@ -17,14 +17,3 @@
 </p>
 
 ---
-
-### 🛠️ Tech Stack
-
-- 💡 Languages: JavaScript, HTML, CSS, Python, Java  
-- 🌐 Web: React, TailwindCSS, A-Frame, WebXR  
-- 🛠️ Tools: Figma, Git, Postman, VSCode  
-- 🧠 Concepts: SPA, MVP Architecture, PWA, REST API, IndexedDB
-
----
-
-Feel free to check out my repositories and connect with me!
