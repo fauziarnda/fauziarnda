@@ -2,7 +2,7 @@
 
 - 🎓 Informatics Student at Brawijaya University  
 - 💻 Interested in Web Development, UI/UX Design, and Graphic Design
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/fauziarnda/) | [Instagram](https://instagram.com/fauziarnda)  
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/achmad-fauzi-aranda/) | [Gmail](fauzi.aranda@gmail.com)  
 
 ---
 
