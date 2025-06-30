@@ -2,6 +2,19 @@
 
 I'm an **Informatics Student** at **Brawijaya University**, deeply passionate about **Web Development**, **UI/UX Design**, and **Graphic Design**. I'm constantly learning and building, eager to create impactful digital experiences and contribute to innovative projects.
 
+## 📫 Let's Connect!
+
+I'm always open to collaborating on interesting projects or discussing new ideas. Feel free to reach out!
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/achmad-fauzi-aranda/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:fauzi.aranda@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
+
 ---
 
 ### 🛠️ My Tech Stack & Tools
@@ -19,15 +32,12 @@ Here are some of the technologies and tools I enjoy working with:
   <!-- <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" /> -->
 
-<br> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" >
+<br> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" /> <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" >
 
   <br>
 
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" alt="Adobe Photoshop" />
-  <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white" alt="Adobe Illustrator" />
-  
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" /> <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" alt="Adobe Photoshop" /> <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white" alt="Adobe Illustrator" />
+
   <br>
 
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
@@ -49,16 +59,6 @@ Here's a glimpse of my activity and most used languages on GitHub:
 </p>
 
 ---
-
-### 📫 Let's Connect!
-
-I'm always open to collaborating on interesting projects or discussing new ideas. Feel free to reach out!
-
-- **LinkedIn**: [Achmad Fauzi Aranda](https://www.linkedin.com/in/achmad-fauzi-aranda/)
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-- **Email**: fauzi.aranda@gmail.com
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-- ***
 
 <p align="center">
   "The only way to do great work is to love what you do." - Steve Jobs
